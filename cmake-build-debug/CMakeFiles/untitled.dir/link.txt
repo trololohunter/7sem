@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/untitled.dir/main.cpp.o CMakeFiles/untitled.dir/functions.cpp.o CMakeFiles/untitled.dir/matrix.cpp.o CMakeFiles/untitled.dir/matrix_fill.cpp.o CMakeFiles/untitled.dir/residuals.cpp.o  -o untitled 
